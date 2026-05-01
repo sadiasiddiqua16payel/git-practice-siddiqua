@@ -1,7 +1,7 @@
 # Git Practice Project
 
 ## Name
-Payel
+Siddiqua
 
 ## Description
 This project is created to practice Git and GitHub workflow.
